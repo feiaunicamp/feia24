@@ -1,0 +1,16 @@
+
+#bg {
+	background-image: url("img/bg_feia.png");
+	background-size: cover;
+}
+
+#logoapoio {
+	background: rgba(255,200,200,0.2);
+	backdrop-filter: blur(10px);
+	margin: 0 auto;
+}
+
+#box {
+	display: flex;
+	align-content: center;
+}
